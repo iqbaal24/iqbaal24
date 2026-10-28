@@ -1,110 +1,87 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Iqbaal&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="header" />
 
-<div align="center">
+<p align="center">
+  Informatics Engineering student · AI/ML enthusiast · Application developer
+</p>
 
-<!-- TERMINAL HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=IQBAAL&fontSize=70&fontColor=4ADE80&stroke=4ADE80&strokeWidth=1&animation=fadeIn&color=0:080D0B,100:102A20" width="100%" />
-
-<br/>
-
-```bash
-┌──(iqbaal㉿github)-[~]
-└─$ whoami
-```
-
-### `Full-Stack Developer` · `Backend Enthusiast`
-
-*Building things, breaking things, learning every day.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-iqbaal24-4ADE80?style=flat-square&logo=github&logoColor=white&labelColor=080D0B)](https://github.com/iqbaal24)
-[![Profile Views](https://komarev.com/ghpvc/?username=iqbaal24&color=4ADE80&style=flat-square&label=PROFILE+VIEWS)](https://github.com/iqbaal24)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iqbaal24?style=flat&logo=github&label=Followers&color=1f6feb" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=iqbaal24&label=Profile%20views&color=1f6feb&style=flat" alt="views" />
+</p>
 
 ---
 
-```bash
-iqbaal@dev:~$ cat about_me.txt
-```
+## 👨‍💻 About Me
 
-```text
-[+] Information Technology Student
-[+] Interested in Backend & Full-Stack Development
-[+] Exploring Flutter, Node.js, Laravel & Golang
-[+] Daily driver: Linux / Ubuntu
-[+] Mission: Build useful and reliable software
-```
+I'm an Applied Bachelor's student in Informatics Engineering at the Department of Information Technology. I enjoy building useful applications and learning Machine Learning and Computer Vision, from clustering and image processing to recommendation systems.
 
-```bash
-iqbaal@dev:~$ ls ./tech-stack/
-```
-
-<div align="center">
-
-**`LANGUAGES`**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1510?style=for-the-badge&logo=javascript&logoColor=4ADE80)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1510?style=for-the-badge&logo=typescript&logoColor=67E8F9)
-![PHP](https://img.shields.io/badge/PHP-0B1510?style=for-the-badge&logo=php&logoColor=67E8F9)
-![Java](https://img.shields.io/badge/Java-0B1510?style=for-the-badge&logo=openjdk&logoColor=4ADE80)
-![Python](https://img.shields.io/badge/Python-0B1510?style=for-the-badge&logo=python&logoColor=4ADE80)
-
-**`FRAMEWORKS & DATABASES`**
-
-![Node.js](https://img.shields.io/badge/Node.js-0B1510?style=for-the-badge&logo=nodedotjs&logoColor=4ADE80)
-![Laravel](https://img.shields.io/badge/Laravel-0B1510?style=for-the-badge&logo=laravel&logoColor=4ADE80)
-![Flutter](https://img.shields.io/badge/Flutter-0B1510?style=for-the-badge&logo=flutter&logoColor=67E8F9)
-![MySQL](https://img.shields.io/badge/MySQL-0B1510?style=for-the-badge&logo=mysql&logoColor=67E8F9)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1510?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
-
-**`TOOLS & ENVIRONMENT`**
-
-![Linux](https://img.shields.io/badge/Linux-0B1510?style=for-the-badge&logo=linux&logoColor=4ADE80)
-![Git](https://img.shields.io/badge/Git-0B1510?style=for-the-badge&logo=git&logoColor=4ADE80)
-![GitHub](https://img.shields.io/badge/GitHub-0B1510?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-</div>
+I'm currently working on **CareerPath**, an AI/ML-based mobile app that recommends career paths for students, while deepening my skills in data analysis and digital image processing.
 
 ---
 
-```bash
-iqbaal@dev:~$ git status
-```
+## 🛠️ Tech Stack
 
-### `FEATURED PROJECTS`
+**Languages**
 
-> Replace the examples below with your actual repositories.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-- **Project One** — Brief description of the application and its purpose.
-- **Project Two** — A backend API or web application.
-- **Project Three** — A mobile application built with Flutter.
+**Web, Mobile & Database**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data Science & Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-```bash
-iqbaal@dev:~$ ./github-stats.sh
-```
+## 📂 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/iqbaal24/ML2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbaal24&repo=ML2026&theme=tokyonight&hide_border=true" alt="ML2026" />
+  </a>
+  <a href="https://github.com/iqbaal24/PCVK_2026">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbaal24&repo=PCVK_2026&theme=tokyonight&hide_border=true" alt="PCVK_2026" />
+  </a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iqbaal24&show_icons=true&hide_border=true&bg_color=080D0B&title_color=4ADE80&icon_color=67E8F9&text_color=C5D5CC&ring_color=4ADE80" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaal24&layout=compact&hide_border=true&bg_color=080D0B&title_color=4ADE80&text_color=C5D5CC" alt="Top Languages" />
-
-<img width="100%" src="https://streak-stats.demolab.com?user=iqbaal24&hide_border=true&background=080D0B&ring=4ADE80&fire=67E8F9&currStreakLabel=4ADE80&sideLabels=C5D5CC&dates=6B8F7B&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-</div>
+**ML2026** contains Machine Learning practicals such as KMeans, DBSCAN, and HDBSCAN. **PCVK_2026** contains Image Processing and Computer Vision practicals: histograms, spatial filters, segmentation, and morphology.
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-```bash
-iqbaal@dev:~$ echo "Keep building."
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iqbaal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaal24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-**`[ ALWAYS LEARNING. ALWAYS BUILDING. ]`**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iqbaal24&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=35&section=footer&color=0:102A20,100:080D0B" width="100%" />
+---
 
-</div>
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" width="100%" alt="footer" />
