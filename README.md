@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-Saya mahasiswa Sarjana Terapan Teknik Informatika di Jurusan Teknologi Informasi. Saya senang membangun aplikasi yang bermanfaat dan mempelajari Machine Learning serta Computer Vision, mulai dari clustering dan pengolahan citra sampai sistem rekomendasi.
+I'm an Applied Bachelor's student in Informatics Engineering at the Department of Information Technology. I enjoy building useful applications and learning Machine Learning and Computer Vision, from clustering and image processing to recommendation systems.
 
-Saat ini saya sedang mengerjakan **CareerPath**, aplikasi mobile berbasis AI/ML untuk rekomendasi karier mahasiswa, dan mendalami analisis data serta pengolahan citra digital.
+I'm currently working on **CareerPath**, an AI/ML-based mobile app that recommends career paths for students, while deepening my skills in data analysis and digital image processing.
 
 ---
 
@@ -59,7 +59,7 @@ Saat ini saya sedang mengerjakan **CareerPath**, aplikasi mobile berbasis AI/ML 
   </a>
 </p>
 
-**ML2026** berisi praktikum Machine Learning seperti KMeans, DBSCAN, dan HDBSCAN. **PCVK_2026** berisi praktikum Pengolahan Citra dan Visi Komputer, yaitu histogram, filter spasial, segmentasi, dan morfologi.
+**ML2026** contains Machine Learning practicals such as KMeans, DBSCAN, and HDBSCAN. **PCVK_2026** contains Image Processing and Computer Vision practicals: histograms, spatial filters, segmentation, and morphology.
 
 ---
 
