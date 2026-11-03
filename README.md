@@ -21,13 +21,6 @@ clustering, regression, and image processing.
 Right now I'm looking for a **fullstack internship (2026)** where I can ship real features with a
 team — onsite in Indonesia or remote.
 
-## What I'm building
-
-- **POS & Marketplace for a motorcycle parts shop** — Laravel REST API, Flutter point-of-sale app,
-  and a Next.js marketplace. Covers stock locking to prevent overselling, multi-warehouse stock,
-  payment webhooks with idempotency, returns/refunds, and PPN.
-- **CareerPath** — an AI/ML-based mobile app that recommends study and career paths for students.
-
 ## Tech stack
 
 ```
