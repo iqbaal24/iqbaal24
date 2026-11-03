@@ -28,15 +28,6 @@ team — onsite in Indonesia or remote.
   payment webhooks with idempotency, returns/refunds, and PPN.
 - **CareerPath** — an AI/ML-based mobile app that recommends study and career paths for students.
 
-## Featured projects
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**booking-tiket-bus**](https://github.com/iqbaal24/booking-tiket-bus) | Bus ticket booking platform for *Bus Akas*: schedule search, seat booking, operator dashboard | Laravel, Filament, PHP 8.3 |
-| [**ML2026**](https://github.com/iqbaal24/ML2026) | Machine learning practicals: K-Means, DBSCAN, HDBSCAN, regression, ANN | Python, scikit-learn, Jupyter |
-| [**PCVK_2026**](https://github.com/iqbaal24/PCVK_2026) | Digital image processing & computer vision: histograms, spatial filters, segmentation, morphology | Python, OpenCV, Jupyter |
-| [**tokoku**](https://github.com/iqbaal24/tokoku) | Laravel practice project — store management with auth, roles, and CRUD modules | Laravel, Blade, MySQL |
-
 ## Tech stack
 
 ```
