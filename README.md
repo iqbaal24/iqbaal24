@@ -1,87 +1,66 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Iqbaal&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="header" />
+<div align="center">
 
-<p align="center">
-  Informatics Engineering student · AI/ML enthusiast · Application developer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&text=Mohammad%20Iqbal&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Fullstack%20Developer%20%C2%B7%20Laravel%20%C2%B7%20Next.js%20%C2%B7%20Flutter&descSize=16&descAlignY=62" width="100%" alt="header" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/iqbaal24?style=flat&logo=github&label=Followers&color=1f6feb" alt="followers" />
-  <img src="https://komarev.com/ghpvc/?username=iqbaal24&label=Profile%20views&color=1f6feb&style=flat" alt="views" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-iqbal-766023386)
+[![Email](https://img.shields.io/badge/iqbalop098@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:iqbalop098@gmail.com)
+[![Followers](https://img.shields.io/github/followers/iqbaal24?style=flat-square&logo=github&label=Followers&color=1f6feb)](https://github.com/iqbaal24?tab=followers)
 
----
+</div>
 
-## 👨‍💻 About Me
+## About
 
-I'm an Applied Bachelor's student in Informatics Engineering at the Department of Information Technology. I enjoy building useful applications and learning Machine Learning and Computer Vision, from clustering and image processing to recommendation systems.
+I'm an Applied Bachelor's (D4) Informatics Engineering student who likes building applications
+end to end — designing the database, wiring the REST API, then polishing the UI until it's
+actually pleasant to use.
 
-I'm currently working on **CareerPath**, an AI/ML-based mobile app that recommends career paths for students, while deepening my skills in data analysis and digital image processing.
+My main stack is **Laravel** for the backend, **Next.js/React** for the web, and **Flutter** for
+mobile. Alongside that I work with **Python** for machine learning and computer vision, mostly
+clustering, regression, and image processing.
 
----
+Right now I'm looking for a **fullstack internship (2026)** where I can ship real features with a
+team — onsite in Indonesia or remote.
 
-## 🛠️ Tech Stack
+## What I'm building
 
-**Languages**
+- **POS & Marketplace for a motorcycle parts shop** — Laravel REST API, Flutter point-of-sale app,
+  and a Next.js marketplace. Covers stock locking to prevent overselling, multi-warehouse stock,
+  payment webhooks with idempotency, returns/refunds, and PPN.
+- **CareerPath** — an AI/ML-based mobile app that recommends study and career paths for students.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## Featured projects
 
-**Web, Mobile & Database**
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**booking-tiket-bus**](https://github.com/iqbaal24/booking-tiket-bus) | Bus ticket booking platform for *Bus Akas*: schedule search, seat booking, operator dashboard | Laravel, Filament, PHP 8.3 |
+| [**ML2026**](https://github.com/iqbaal24/ML2026) | Machine learning practicals: K-Means, DBSCAN, HDBSCAN, regression, ANN | Python, scikit-learn, Jupyter |
+| [**PCVK_2026**](https://github.com/iqbaal24/PCVK_2026) | Digital image processing & computer vision: histograms, spatial filters, segmentation, morphology | Python, OpenCV, Jupyter |
+| [**tokoku**](https://github.com/iqbaal24/tokoku) | Laravel practice project — store management with auth, roles, and CRUD modules | Laravel, Blade, MySQL |
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+## Tech stack
 
-**Data Science & Tools**
+```
+Backend    Laravel · PHP 8.3 · Filament · REST API · MySQL · PostgreSQL
+Frontend   Next.js · React · TypeScript · Tailwind CSS · Blade
+Mobile     Flutter · Dart · React Native
+Data       Python · scikit-learn · OpenCV · Jupyter
+Tools      Git · GitHub · Postman · Docker (basics) · Vercel
+```
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## GitHub stats
 
----
+<div align="center">
 
-## 📂 Featured Projects
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=iqbaal24&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaal24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
 
-<p align="center">
-  <a href="https://github.com/iqbaal24/ML2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbaal24&repo=ML2026&theme=tokyonight&hide_border=true" alt="ML2026" />
-  </a>
-  <a href="https://github.com/iqbaal24/PCVK_2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iqbaal24&repo=PCVK_2026&theme=tokyonight&hide_border=true" alt="PCVK_2026" />
-  </a>
-</p>
+</div>
 
-**ML2026** contains Machine Learning practicals such as KMeans, DBSCAN, and HDBSCAN. **PCVK_2026** contains Image Processing and Computer Vision practicals: histograms, spatial filters, segmentation, and morphology.
+## Contact
 
----
+Open to internship opportunities and collaborations.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iqbaal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaal24&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iqbaal24&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/username-kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+- Email: [iqbalop098@gmail.com](mailto:iqbalop098@gmail.com)
+- LinkedIn: [mohammad-iqbal-766023386](https://www.linkedin.com/in/mohammad-iqbal-766023386)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=90&section=footer" width="100%" alt="footer" />
