@@ -51,8 +51,7 @@ Tools      Git · GitHub · Postman · Docker (basics) · Vercel
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=iqbaal24&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbaal24&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="top languages" />
+<img src="https://streak-stats.demolab.com?user=iqbaal24&theme=tokyonight&hide_border=true" alt="contribution streak" />
 
 </div>
 
